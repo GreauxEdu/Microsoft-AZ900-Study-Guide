@@ -1,8 +1,7 @@
 # Describe general security and network security features (10-15%)
 
 ## Describe Azure security features
-* describe [basic features of Azure Security Center, including policy compliance, security
-alerts, secure score, and resource hygiene](https://www.youtube.com/watch?v=tyztKP9rszU)
+* describe [basic features of Azure Security Center, including policy compliance, security alerts, secure score, and resource hygiene](https://www.youtube.com/watch?v=tyztKP9rszU)
 * describe the [functionality and usage of Key Vault](https://www.youtube.com/watch?v=AA3yYg9Zq9w)
 * describe the [functionality and usage of Azure Sentinel](https://www.youtube.com/watch?v=XXZp6LQZSJU)
 * describe the [functionality and usage of Azure Dedicated Hosts](https://www.youtube.com/watch?v=_GKsRh8r0sI)
