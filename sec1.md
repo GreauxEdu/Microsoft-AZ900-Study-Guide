@@ -4,6 +4,7 @@
 ### identify the differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx) 
 ### Describe the Consumption-Based Model 
 
+
 ## Describe the Differences between categories of cloud services
 ### describe the shared responsibility model
 ### describe Infrastructure-as-a-Service (IaaS),
