@@ -18,4 +18,4 @@ Container Instances (ACI), Azure Kubernetes Service (AKS), and Azure Virtual Des
 * describe the [benefits and usage of Azure Marketplace](https://www.youtube.com/watch?v=ersOL_o_lzc)
 
 ### [Return to Table of Contents](README.md)
-### [Core Solutions Explinations](2-Azure-Services\sec2.md)
+### [Azure Services Explinations](2-Azure-Services\sec2.md)
