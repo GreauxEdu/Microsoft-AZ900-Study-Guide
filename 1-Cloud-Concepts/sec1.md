@@ -31,3 +31,6 @@
 **Benefits:** It could be more cost-effective based on what you offload to the cloud. You have to secure your connection to the cloud which gives you the ability to meet all security requirements. You need to have in-depth knowledge and know how to configure all levels of your infrastructure and know the CSPs services.
 
 #### compare and contrast the three types of cloud computing
+
+### [Return to Table of Contents](README.md)
+### [Cloud Concepts Resources](1-Cloud-Concepts\1-resources.md)
