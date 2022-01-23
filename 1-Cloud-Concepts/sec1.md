@@ -63,13 +63,13 @@
 
 * **Disadvantages**: Since large volumes of sensitive data are being exchanged with off-premise servers, security and compliance might be compromised. SaaS only allows for minimal customization when it comes to features and capabilities. It might be difficult to integrate SaaS with existing apps and services due to dependencies. Users have very little control over functionalities, performance, downtime, or how their data is governed. With the ease of use and scalability SaaS provides, an organization's SaaS stack includes many overlapping, underutilized, or unused apps. The value of SaaS apps in the organization can drop without automated SaaS Management or SaaS optimization processes in place. Employees often purchase or sign up for new SaaS without the knowledge of IT. Unmanaged SaaS apps could have potential security gaps.
 
-### describe serverless computing
-* **serverless computing:**
-
 ### identify a service type based on a use case
-* **service type based on a use case:**
+* **SaaS:** you don't control the servers (or know what they are), you don't control the software or it's versions, you only control the data and settings. The software stands alone as a useful product, it doesn't require something else to be useful. Some examples include Sharepoint, Outlook, Word, Excel, etc.
+* **PaaS:** you don't control the servers but you are able to pay more for performance. You control the data and settings. Often, PaaS is programmable and you can upload your own code. It provides useful features above raw storage or compute underneath. It's a platform that you need to build upon to be useful. Some examples include app services and Azure SQL Database.
+* **IaaS:** you control the virtual hardware, it's a virtual imitation of a real piece of a netowrk. Falls into three categories: compute, networking, and storage. Some examples include virtual machines, Azure storage, and Load Balancer.
 
-
+### describe serverless computing
+* **serverless computing:** there are still servers, the end-user just doesn't ahve to deal with them. Even less access to the server than PaaS. You don't have to worry about choosing the right plan or scaling. You're only paying for executing. Azure Serverless Offers include Azure Functions, Serverless Kubernetes (Virtual Nodes w/ ACI), Azure SQL Database Serverless, Cosmos DB Serverless (preview)
 
 ## Describe the Differences between types of Cloud Computing
 ### define cloud computing
@@ -88,6 +88,7 @@
 **Benefits:** It could be more cost-effective based on what you offload to the cloud. You have to secure your connection to the cloud which gives you the ability to meet all security requirements. You need to have in-depth knowledge and know how to configure all levels of your infrastructure and know the CSPs services.
 
 #### compare and contrast the three types of cloud computing
+* In **Public Cloud**, Microsoft owns the hardware and you're temporarily using it. **Private Cloud** utilizes your own hardware or an exclusive contract with someone to lease hardware while using the services of the public cloud. **Hybrid Cloud** is a mix between public and private cloud.
 
 ### [Return to Table of Contents](README.md)
 ### [Cloud Concepts Resources](1-Cloud-Concepts\1-resources.md)
