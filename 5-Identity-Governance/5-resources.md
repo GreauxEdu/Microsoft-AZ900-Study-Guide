@@ -21,5 +21,5 @@
 * describe the [purpose of the Azure compliance documentation](https://www.youtube.com/watch?v=zBzsDYZw98M&t=63s)
 * describe the [purpose of Azure Sovereign Regions (Azure Government cloud services and Azure China cloud services)](https://www.youtube.com/watch?v=W6WFwHElS4U)
 
-### [Return to Table of Contents](README.md)
-### [Identity Governance Explinations](5-Identity-Governance\sec5.md)
+### [Return to Table of Contents](/README.md)
+### [Identity Governance Explinations](/5-Identity-Governance/sec5.md)

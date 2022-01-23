@@ -12,5 +12,5 @@
 * describe the [functionality and usage of Azure Firewall](https://www.youtube.com/watch?v=VIEaz869njk)
 * describe the [functionality and usage of Azure DDoS protection](https://www.youtube.com/watch?v=MUVFMF9DgM0)
 
-### [Return to Table of Contents](README.md)
-### [General Security Explinations](4-General-Security\sec4.md)
+### [Return to Table of Contents](/README.md)
+### [General Security Explinations](/4-General-Security/sec4.md)

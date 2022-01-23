@@ -11,5 +11,5 @@
 * identify [actions that can impact an SLA (i.e. Availability Zones)](https://www.youtube.com/watch?v=YB5DS6YC2GI)
 * describe the [service lifecycle in Azure (Public Preview and General Availability)](https://www.youtube.com/watch?v=J4HzsmuClV0)
 
-### [Return to Table of Contents](README.md)
-### [Identity Governance Explinations](6-Cost-Management\sec6.md)
+### [Return to Table of Contents](/README.md)
+### [Identity Governance Explinations](/6-Cost-Management/sec6.md)

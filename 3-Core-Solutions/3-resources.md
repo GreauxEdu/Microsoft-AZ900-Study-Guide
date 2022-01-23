@@ -13,5 +13,5 @@
 * describe the [functionality and usage of Azure Monitor](https://www.youtube.com/watch?v=eSutaPE80PM)
 * describe the [functionality and usage of Azure Service Health](https://www.youtube.com/watch?v=dN2pEqV_VvI)
 
-### [Return to Table of Contents](README.md)
-### [Core Solutions Explinations](3-Core-Solutions\sec3.md)
+### [Return to Table of Contents](/README.md)
+### [Core Solutions Explinations](/3-Core-Solutions/sec3.md)
