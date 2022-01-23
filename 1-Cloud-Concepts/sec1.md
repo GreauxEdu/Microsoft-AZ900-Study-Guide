@@ -24,6 +24,8 @@
 
 
 ## Describe the Differences between categories of cloud services
+![Cloud Services](/1-Cloud-Concepts\cloud-services.png)
+
 ### describe the shared responsibility model
 * **shared responsibility model:**
 
