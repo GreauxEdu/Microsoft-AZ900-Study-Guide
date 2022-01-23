@@ -15,3 +15,6 @@
 ### describe the benefits and usage of Container (Blob) Storage, Disk Storage, File Storage,and storage tiers 
 ### describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and SQL Managed Instance 
 ### describe the benefits and usage of Azure Marketplace 
+
+### [Return to Table of Contents](/README.md)
+### [Azure Services Resources](/2-Azure-Services/2-resources.md)
