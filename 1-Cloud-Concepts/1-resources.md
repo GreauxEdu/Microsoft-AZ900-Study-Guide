@@ -28,5 +28,5 @@ This page is a collection of resources that will give you more indepth knowledge
 * describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
 * compare and contrast [the three types of cloud computing](https://azure.microsoft.com/en-us/overview/types-of-cloud-computing/)
 
-### [Return to Table of Contents](README.md)
-### [Cloud Concepts Explinations](1-Cloud-Concepts\sec1.md)
+### [Return to Table of Contents](/README.md)
+### [Cloud Concepts Explinations](/1-Cloud-Concepts/sec1.md)
