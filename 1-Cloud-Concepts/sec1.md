@@ -91,4 +91,4 @@
 * In **Public Cloud**, Microsoft owns the hardware and you're temporarily using it. **Private Cloud** utilizes your own hardware or an exclusive contract with someone to lease hardware while using the services of the public cloud. **Hybrid Cloud** is a mix between public and private cloud.
 
 ### [Return to Table of Contents](README.md)
-### [Cloud Concepts Resources](1-Cloud-Concepts\1-resources.md)
+### [Cloud Concepts Resources](/1-Cloud-Concepts\1-resources.md)
