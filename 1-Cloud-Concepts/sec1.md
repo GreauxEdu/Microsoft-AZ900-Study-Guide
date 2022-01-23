@@ -25,7 +25,7 @@
 
 ## Describe the Differences between categories of cloud services
 ### describe the shared responsibility model
-![Shared Responsibility Model](/1-Cloud-Concepts\cloud-services.png)
+![Shared Responsibility Model](/1-Cloud-Concepts/cloud-services.png)
 * **shared responsibility model:**
 
 ### describe Infrastructure-as-a-Service (IaaS)
@@ -90,5 +90,5 @@
 #### compare and contrast the three types of cloud computing
 * In **Public Cloud**, Microsoft owns the hardware and you're temporarily using it. **Private Cloud** utilizes your own hardware or an exclusive contract with someone to lease hardware while using the services of the public cloud. **Hybrid Cloud** is a mix between public and private cloud.
 
-### [Return to Table of Contents](README.md)
-### [Cloud Concepts Resources](/1-Cloud-Concepts\1-resources.md)
+### [Return to Table of Contents](/README.md)
+### [Cloud Concepts Resources](/1-Cloud-Concepts/1-resources.md)
