@@ -4,8 +4,7 @@
 * explain the [difference between authentication and authorization](https://www.youtube.com/watch?v=b_WIjY-burU)
 * define [Azure Active Directory](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
 * describe the [functionality and usage of Azure Active Directory](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
-* describe the [functionality and usage of Conditional Access, Multi-Factor Authentication
-(MFA), and Single Sign-On (SSO)](https://www.youtube.com/watch?v=DFwERh9Xxk0)
+* describe the [functionality and usage of Conditional Access, Multi-Factor Authentication (MFA), and Single Sign-On (SSO)](https://www.youtube.com/watch?v=DFwERh9Xxk0)
 
 ## Deszcribe Azure governance features
 * describe the [functionality and usage of Role-Based Access Control (RBAC)](https://www.youtube.com/watch?v=4v7ffXxOnwU)
